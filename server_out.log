@@ -1,0 +1,6 @@
+AI Quiz backend listening on http://127.0.0.1:4010
+2025-10-07T20:01:55.467Z GET /health
+2025-10-07T20:01:55.931Z POST /generate-quiz
+2025-10-07T20:02:18.805Z POST /generate-quiz
+2025-10-07T20:02:56.848Z POST /generate-quiz
+2025-10-07T20:03:06.699Z POST /generate-quiz

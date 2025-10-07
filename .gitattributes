@@ -1,0 +1,4 @@
+# Enforce LF for source files
+*.js text eol=lf
+*.py text eol=lf
+*.md text eol=lf

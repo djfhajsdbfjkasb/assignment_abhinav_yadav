@@ -1,0 +1,84 @@
+Attempt 0 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+Attempt 1 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+Attempt 2 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+Attempt 0 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+Attempt 1 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+Attempt 2 failed: Error: Python worker (python) exited with code 1: Traceback (most recent call last):
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 127, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 114, in main
+    out = generate_quiz(topic, count)
+  File "C:\Users\ajays\Desktop\Assn_Abhinav\backend\ai_worker.py", line 66, in generate_quiz
+    prompt = PROMPT_TEMPLATE.format(topic=topic, count=count)
+KeyError: '\n  "questions"'
+
+    at ChildProcess.<anonymous> (C:\Users\ajays\Desktop\Assn_Abhinav\backend\server.js:45:25)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
